@@ -11,4 +11,4 @@ Does a cheaper subscription always mean better value? I analyzed the "Price-to-C
 * GitHub (Project Documentation)
 
 ### Data Visualization
-![Streaming Value Chart](streaming_chart.png)
+![Streaming Value Chart](Bang%20for%20Your%20Buck_%20Titles%20per%20Dollar.png)
